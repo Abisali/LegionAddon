@@ -1,0 +1,5 @@
+## Title: Trinity Relay Addon
+## APIVersion: 100000
+
+Trinity.lua
+Trinity.xml
